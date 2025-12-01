@@ -20,6 +20,10 @@
 - 💰 Controle de prestação de serviços com descontos automáticos
 - 📊 Relatórios financeiros e histórico de atendimentos
 
+> **Disciplina**: Desenvolvimento de Aplicações Web  
+> **Curso**: Sistemas para Internet  
+> **Tipo**: Trabalho Individual 
+
 ---
 
 ## 🚀 Tecnologias
