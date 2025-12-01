@@ -211,7 +211,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ## 📝 Licença
 
-Este projeto é um trabalho acadêmico desenvolvido para fins educacionais.
+Este projeto é um trabalho acadêmico desenvolvido para a disciplina de **Desenvolvimento de Aplicações Web** do curso de **Sistemas para Internet**.
 
 ---
 
