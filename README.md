@@ -220,9 +220,3 @@ Este projeto é um trabalho acadêmico desenvolvido para a disciplina de **Desen
 **Hugo Vinícius Rodrigues Pereira**
 
 [![GitHub](https://img.shields.io/badge/GitHub-hugovrp-black?style=flat-square&logo=github)](https://github.com/hugovrp)
-
----
-
-## 📞 Suporte
-
-Encontrou um bug ou tem uma sugestão? [Abra uma issue](https://github.com/hugovrp/TSI-Cao-Q-Late/issues)
